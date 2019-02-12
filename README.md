@@ -25,5 +25,4 @@ This project is open for any contribution i.e. you can generate a pull request o
 
 Thanks!
 
-Muhammad Rizwan  
-dgrizwan@gmail.com
+Muhammad Rizwan
